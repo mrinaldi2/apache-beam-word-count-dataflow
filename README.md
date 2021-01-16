@@ -1,7 +1,7 @@
 # apache-beam-word-count-dataflow
 Code to run pipeline on google cloud dataflow
 
-If you want to check how it was done please see the youtube video at this link
+If you want to check how it was done please see the youtube video at this [link](https://www.youtube.com/watch?v=MLaQESVdx54) 
 
 # Run the pipeline in your laptop
 `python3.7 pipeline.py --input input.txt --output count.txt`
